@@ -1,3 +1,4 @@
+/// Отрисовка слайдера
 $(document).ready(function(){
     const options = {
         items:1,

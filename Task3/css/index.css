@@ -1,9 +1,11 @@
+/* Картинки */
 img {
     width: 800px;
     height: 600px;
     overflow: hidden
 }
 
+/* Нумерация слвйдов */
 div[class='item'] > span {
     position: absolute;
     top: 15px;
